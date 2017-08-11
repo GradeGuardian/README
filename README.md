@@ -4,6 +4,8 @@ GradeGuardian is a a thorough platform to predict students at risk and suggest w
 
 Visit: gradeguardian.in to view the project
 
+Youtube example: https://youtu.be/yeAtv7T007k
+
 Whats in each repo?
 
 Landing Page: Frontend for the landing page
@@ -17,7 +19,7 @@ api: backend for the chatbot
 
 ng-client: additional frontend
 
-JsonData: placeholder for literacy day
+JsonData: placeholder for literacy data
 
 socketio-test: development tool for testing socketio requests
 
